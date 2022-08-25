@@ -1,0 +1,9 @@
+/home/accioo/software_pkg/darknet-master/telloResources/training/dataset/001.jpg
+/home/accioo/software_pkg/darknet-master/telloResources/training/dataset/002.jpg
+/home/accioo/software_pkg/darknet-master/telloResources/training/dataset/003.jpg
+/home/accioo/software_pkg/darknet-master/telloResources/training/dataset/004.jpg
+/home/accioo/software_pkg/darknet-master/telloResources/training/dataset/005.jpg
+/home/accioo/software_pkg/darknet-master/telloResources/training/dataset/006.jpg
+/home/accioo/software_pkg/darknet-master/telloResources/training/dataset/007.jpg
+/home/accioo/software_pkg/darknet-master/telloResources/training/dataset/008.jpg
+/home/accioo/software_pkg/darknet-master/telloResources/training/dataset/009.jpg

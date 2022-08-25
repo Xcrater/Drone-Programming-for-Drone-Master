@@ -1,0 +1,3 @@
+/home/accioo/software_pkg/darknet-master/telloResources/training/dataset/010.jpg
+/home/accioo/software_pkg/darknet-master/telloResources/training/dataset/011.jpg
+/home/accioo/software_pkg/darknet-master/telloResources/training/dataset/012.jpg

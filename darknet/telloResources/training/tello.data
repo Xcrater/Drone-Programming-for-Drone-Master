@@ -1,0 +1,6 @@
+classes= 1
+train  = /home/accioo/software_pkg/darknet-master/telloResources/training/train.txt
+valid  = /home/accioo/software_pkg/darknet-master/telloResources/training/test.txt
+#valid = data/coco_val_5k.list
+names  = /home/accioo/software_pkg/darknet-master/telloResources/training/tello.name
+backup = /home/accioo/software_pkg/darknet-master/backup
