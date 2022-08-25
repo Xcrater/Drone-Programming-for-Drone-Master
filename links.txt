@@ -1,0 +1,26 @@
+Camera Resolution issue
+    https://kumoh-irl.tistory.com/19
+
+DeepSort
+    https://papers.readthedocs.io/en/latest/tracking/deepsort/
+
+Lecture on Object Detection
+    http://users.jyu.fi/~olkhriye/ties4911/lectures/Lecture05.pdf
+
+YoloV3 
+    https://papers.readthedocs.io/en/latest/imagedetection/yolov3/
+
+Yolov4 weight training
+    https://medium.com/analytics-vidhya/train-a-custom-yolov4-tiny-object-detector-on-linux-3b6f3f6cf19b
+
+Yolo Theory
+    https://towardsdatascience.com/yolo-you-only-look-once-real-time-object-detection-explained-492dc9230006
+
+Install Darknet
+    https://github.com/AlexeyAB/darknet
+
+Using Labellmg
+    https://www.youtube.com/watch?v=-NEB5P-SLi0
+
+Refrence for training and configuration
+    https://www.youtube.com/watch?v=rHY3T7-vK38

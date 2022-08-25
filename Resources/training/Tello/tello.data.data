@@ -1,0 +1,9 @@
+classes= 1
+train  = C:\Users\enggr\OneDrive\Documents\GitHub\Drone Programming\Resources\training\Tello\train.txt
+valid  = C:\Users\enggr\OneDrive\Documents\GitHub\Drone Programming\Resources\training\Tello\test.txt
+#valid = data/coco_val_5k.list
+names  = tello.name
+backup = C:\Users\enggr\OneDrive\Documents\GitHub\Drone Programming\Resources\backup\
+
+
+ 
